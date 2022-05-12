@@ -1,0 +1,28 @@
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.csproj.AssemblyReference.cache
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.GeneratedMSBuildEditorConfig.editorconfig
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.AssemblyInfoInputs.cache
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.AssemblyInfo.cs
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.csproj.CoreCompileInputs.cache
+C:\kpii\programing\лабки\лаба4\laba4 program\bin\Debug\netcoreapp3.1\laba4 program.exe
+C:\kpii\programing\лабки\лаба4\laba4 program\bin\Debug\netcoreapp3.1\laba4 program.deps.json
+C:\kpii\programing\лабки\лаба4\laba4 program\bin\Debug\netcoreapp3.1\laba4 program.runtimeconfig.json
+C:\kpii\programing\лабки\лаба4\laba4 program\bin\Debug\netcoreapp3.1\laba4 program.runtimeconfig.dev.json
+C:\kpii\programing\лабки\лаба4\laba4 program\bin\Debug\netcoreapp3.1\laba4 program.dll
+C:\kpii\programing\лабки\лаба4\laba4 program\bin\Debug\netcoreapp3.1\laba4 program.pdb
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.dll
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.pdb
+C:\kpii\programing\лабки\лаба4\laba4 program\obj\Debug\netcoreapp3.1\laba4 program.genruntimeconfig.cache
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\bin\Debug\netcoreapp3.1\laba4 program.exe
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\bin\Debug\netcoreapp3.1\laba4 program.deps.json
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\bin\Debug\netcoreapp3.1\laba4 program.runtimeconfig.json
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\bin\Debug\netcoreapp3.1\laba4 program.runtimeconfig.dev.json
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\bin\Debug\netcoreapp3.1\laba4 program.dll
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\bin\Debug\netcoreapp3.1\laba4 program.pdb
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.csproj.AssemblyReference.cache
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.GeneratedMSBuildEditorConfig.editorconfig
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.AssemblyInfoInputs.cache
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.AssemblyInfo.cs
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.csproj.CoreCompileInputs.cache
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.dll
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.pdb
+C:\kpii\programing\лабки\лаба4\sydorenko_oleksandra_laba4\obj\Debug\netcoreapp3.1\laba4 program.genruntimeconfig.cache
